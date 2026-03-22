@@ -1,16 +1,65 @@
-## Hi there 👋
+<!-- ================= HEADER ================= -->
+<div align="center">
 
-<!--
-**rajprajapati7169-web/rajprajapati7169-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>:wave: Hi, I'm Raj Prajapati</h1>
+<p>:computer: Java | DSA | Web Developer | Problem Solver</p>
 
-Here are some ideas to get you started:
+<img src="https://komarev.com/ghpvc/?username=rajprajapati7169-web&label=Profile%20Views&color=0e75b6&style=flat" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+<!-- ================= ABOUT ================= -->
+## :rocket: About Me  
+
+- :mortar_board: Diploma in Computer Science (LNCT)  
+- :bulb: Passionate about **Java, DSA & Web Development**  
+- :zap: Love building real-world projects  
+- :round_pushpin: Bhopal, India  
+
+---
+
+<!-- ================= SKILLS ================= -->
+## :tools: Skills  
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,cpp,html,css,js,git,github,vscode" />
+
+</div>
+
+---
+
+<!-- ================= PROJECT ================= -->
+## :open_file_folder: Featured Project  
+
+### :small_blue_diamond: ATS Resume Checker  
+- :page_facing_up: Analyze resume ATS score  
+- :bar_chart: Match with job description  
+- :zap: Improve selection chances  
+
+:link: **Repo:** https://github.com/rajprajapati7169-web/ATS  
+
+---
+
+<!-- ================= TOOLS ================= -->
+## :gear: Tools I Use  
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+
+</div>
+
+---
+
+<!-- ================= EXPERIENCE ================= -->
+## :briefcase: Experience  
+
+```bash
+
+✔ Strong in Java + DSA
+✔ Problem-solving mindset
